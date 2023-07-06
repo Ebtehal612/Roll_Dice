@@ -23,7 +23,7 @@ class GraCon extends StatelessWidget {
           end: endAlignment,
         ),
       ),
-      child: Center(
+      child: const Center(
         child: dice(),
       ),
     );
